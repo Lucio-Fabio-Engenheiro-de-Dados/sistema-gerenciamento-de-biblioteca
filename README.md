@@ -128,10 +128,15 @@ CREATE TABLE emprestimo (
 ## ⚙️ Funcionalidades
 
 ✔ Cadastro de clientes
+
 ✔ Cadastro de livros
+
 ✔ Controle de estoque
+
 ✔ Registro de empréstimos e devoluções
+
 ✔ Relatórios de uso da biblioteca
+
 ✔ Consulta de dados de forma rápida
 
 ---
@@ -152,6 +157,30 @@ FROM emprestimo
 GROUP BY id_livro
 ORDER BY total DESC;
 ```
+
+## 📥 Downloads
+
+- 📘 [Baixar Ebook PDF](docs/ebook_procedure_sql_profissional.pdf)
+
+- 🖼️ [Visualizar Imagem](docs/procedure_sql_profissional.png)
+
+<img 
+src="docs/delimitadores_SQL.png" 
+alt="Delimitadores em SQL" 
+width="1200">
+
+
+# 📘 Delimitadores - Transaction e Commit no SQL
+
+<img 
+src="docs/delimitadores_SQL.png" 
+alt="Delimitadores em SQL" 
+width="1200">
+
+<img 
+src="docs/transaction_commit.png" 
+alt="Transaction e Commit no SQL" 
+width="1200">
 
 ---
 
