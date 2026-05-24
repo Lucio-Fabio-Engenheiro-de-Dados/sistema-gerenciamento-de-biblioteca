@@ -162,15 +162,13 @@ ORDER BY total DESC;
 
 - 📘 [Baixar Ebook PDF](docs/ebook_procedure_sql_profissional.pdf)
 
-- 🖼️ [Visualizar Imagem](docs/procedure_sql_profissional.png)
+
+# 📘 Proceudre - Delimitadores - Transaction e Commit no SQL
 
 <img 
-src="docs/delimitadores_SQL.png" 
-alt="Delimitadores em SQL" 
+src="docs/procedure_sql_profissional.png" 
+alt="Procedure em SQL" 
 width="1200">
-
-
-# 📘 Delimitadores - Transaction e Commit no SQL
 
 <img 
 src="docs/delimitadores_SQL.png" 
